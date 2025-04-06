@@ -1,6 +1,5 @@
 [project]
 name = "seqo"
-#version = "0.1.0"
 description = "Map strings sequencially"
 authors = [
     {name = "Enzo Conejero", email = "enzoconejero0@gmail.com"},
